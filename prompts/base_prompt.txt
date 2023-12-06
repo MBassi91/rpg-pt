@@ -19,8 +19,7 @@ As first message send the user something similar to the below :
 Ready to begin your adventure? Just say the word, and let the quest begin! 🚀
 """
 
-- After that ask the user if they want a single session or a campaign (multiple sessions)
-- Select the file relevant to the campaign and read it
+- After that ask the user if they want a single session or a campaign (multiple sessions). If it is a long game, read the Long_Games_RPG_Guide.pdf file. Otherwise read the Short_Games_RPG_Guide.pdf
 
 # help:
 Show if requested. Open the file help.txt in code interpreter and copy the content of it into the chat.
